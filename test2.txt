@@ -1,0 +1,8 @@
+class aa { b = new char ;
+ab = new char[2] ;
+public a () { ab = new char[2] ;
+ab = new int[2] ;
+/* s */
+} 
+public void d() { if  (x[2] + 3 > 4 - 1 ) {}} 
+}
